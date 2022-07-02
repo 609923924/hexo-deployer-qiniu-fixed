@@ -1,0 +1,29 @@
+{
+  "name": "hexo-deployer-qiniu-fixed",
+  "version": "1.0.1",
+  "description": "Qiniu Cloud deployer plugin of Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "deployer",
+    "qiniu",
+    "qiniucloud",
+    "Qiniu Cloud",
+    "七牛",
+    "七牛云"
+  ],
+  "author": "oliverkirk",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/609923924/hexo-deployer-qiniucdn.git"
+  },
+  "dependencies": {
+    "hexo-fs": "^3.1.0",
+    "qiniu": "^7.7.0",
+    "request": "^2.88.2"
+  }
+}
